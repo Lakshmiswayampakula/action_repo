@@ -1,0 +1,5 @@
+Test file for webhook triggers.
+
+This file can be modified to trigger PUSH events.
+Create branches and PRs to test PULL_REQUEST events.
+Merge PRs to test MERGE events.
