@@ -5,3 +5,4 @@ Create branches and PRs to test PULL_REQUEST events.
 Merge PRs to test MERGE events.
 
 Test1: Updated
+Test2: updated
